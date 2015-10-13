@@ -213,13 +213,13 @@
  * @endcode
  */
 $databases = array (
-  'default' => 
+  'default' =>
   array (
-    'default' => 
+    'default' =>
     array (
       'database' => 'fan_database',
-      'username' => 'database_admin',
-      'password' => 'treehouse',
+      'username' => 'admin',
+      'password' => 'password!',
       'host' => 'localhost',
       'port' => '',
       'driver' => 'mysql',
